@@ -1,1 +1,0 @@
-# EthanTirtorahardjo.github.io
