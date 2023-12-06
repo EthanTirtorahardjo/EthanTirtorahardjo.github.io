@@ -1,1 +1,1 @@
-# EthanTirtorahardjo.github.io
+Lab 4, Part 1, was one of my personal favorites because it allowed us to practice the usage of doubles and converting values, or in this case, measurements. Lab 4 also had us creating sentence outputs with "cout", intertwining both variables and words. Part 1 specifically had us converting a lot of variables so we also got practice using math equations and symbols with said doubles. All together Lab 4 allowed us to get comfortable with these simple ideaas and programs. 
